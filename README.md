@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots from the implementation
-![Dashboard Screen](/screenshots/Screenshot 2022-09-21 at 23.52.08.png?raw=true "Dashboard Screen")
+<img width="351" alt="Dashboard Screen" src="https://user-images.githubusercontent.com/13987684/191625778-c808405c-04e3-422a-be70-b3e09680416b.png">
